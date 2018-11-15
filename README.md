@@ -1,1 +1,1 @@
-# Lab02
+#Zadania
